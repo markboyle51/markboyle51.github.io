@@ -12,26 +12,26 @@ body {
 
 /** Header styles **/
 .header {
-  background-image: url(https://lh3.googleusercontent.com/SZ7X7lPAORIyWYS4jxEZko8mAsr2obyQMeDbN0V6aBl7AQAMKzksAUGf5d61M-RAw0o37IglJ3eVbRx_G02BQ8W0oVqoNkPVsUfsvEH-u-lgr-h0XJ_OuPr6OEe47DgMV0emsRb6NadJEo4oSIzi7QloAgoD9w0uo6f-1Gm3QnQ3buD7GSPEe8EPXnttLJcmZNqYDrzxCrOjWiRt5KRMMyXf9SDa-RdzguroW6CCMx2HjhVdA16dcNCFyuLcrn1mQP4o8KwUK8Eh635iTeNZ7NN6KqO_ASnECRSq98MxXqd9ZU_LXczKn2zIJfZ2kL3fvRzbkwpuKzdOnBCqW4aEGB1k_H9sGz8gMfKnRGB044qnhaLfu1HFQYNPbnEb3UcH3UWWUm_Kr1LjMcMyvWOgZ-kjiy5Z2Bql8yQxYu9_NFOXXTQVxvuZGHn2KQfgZEVIPZTS_A46f8UTqOCbRcUONFv3bMmbpi8FpcV5gbsQiQ024ftEI3qx8GbXc9Nt6Z77pwn5DGp29TRllhfGAge_AmN4xMK8HSQfAYrUBSfCBp8ztf9HYcnfiz2ecyS6bQDOUS91K1V-kr_1uN3baJ-5gVmvlNyMvkiD2TJ-iuk=w1091-h736-no);
+  background-image: url(https://images.unsplash.com/photo-1455267847942-f4fdb784f0c5?dpr=1&auto=format&crop=entropy&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb);
   height: 400px;
-  background-position: center left;
+  background-position: center center;
 }
 
-.roasting {
+.manySidesOfDad {
   margin: 40px auto;
   padding: 20px 30px 40px 30px;
-  background-color: #FFFFFFFF;
+  background-color: #FFFFFFFFF;
   overflow: auto;
   width: 75%;
   border-radius: 4px;
   align-self: center;
 }
 
-.roasting p {
+.manySidesOfDad p {
   color: #938E89;
   text-align: center;
   line-height: 24px;
-  font-family: 'Cinzel', sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-size: 16px;
   font-weight: 400;
 }
@@ -50,41 +50,41 @@ body {
 }
 
 /* Roast types */
-.green {
-  background-color: #008080;
+.Dad {
+  background-color: rgb(143, 188, 143);
 }
 
-.light {
-  background-color: #696969;
+.Grandpa {
+  background-color: rgb(160, 82, 45);
 }
 
-.city {
-  background-color: #2E8B57;
+.ConcreteContractor {
+  background-color: rgb(139, 69, 19);
 }
 
-.vienna {
-  background-color: #BDB76B;
+.BestFriend {
+  background-color: #A52A2A;
 }
 
-.italian {
-  background-color: #4682B4;
+.DogOwner {
+  background-color: #000000;
 }
 
 /* Typography */
 h1 {
-  color: #5F9EA0;
-  font-family: 'Cinzel', sans-serif;
-  font-size: 75px;
+  color: #41292C;
+  font-family: 'Covered By Your Grace', sans-serif;
+  font-size: 100px;
   line-height: 76px;
   margin: 0;
   position: relative;
-  text-align:center;
-  top: 75%;
+  text-align: center;
+  top: 20%;
 }
 
 h2 {
   color: #E4BB97;
-  font-family: 'Cinzel', sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-size: 28px;
   font-weight: 500;
   text-align: left;
@@ -93,22 +93,22 @@ h2 {
 
 h3 {
   color: #41292C;
-  font-family: 'Cinzel', sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-size: 22px;
   font-weight: 500;
   text-align: center;
 }
 
 h4 {
-  font-family: 'Cinzel', sans-serif;Cinzel
-  font-size: 6px;
+  font-family: 'Raleway', sans-serif;
+  font-size: 28px;
   font-weight: 700;
   line-height: .2em;
 }
 
 h5 {
-  font-family: 'Cinzel', sans-serif;
-  font-size: 14px;
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
   line-height: .2em;
   font-weight: 300;
 }
