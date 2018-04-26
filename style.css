@@ -12,8 +12,8 @@ body {
   
   /** Header styles **/
   .header {
-    background-image: url(https://photos.app.goo.gl/PQdQsqDytrdqXDQT2);
-    height: 400px;
+    background-image: url(https://lh3.googleusercontent.com/k2ZSLo2zvBtvYBv__6S5PcpTlBcpkg4p1Y_6gpYYo3nyTGcd9y-M9MX_NzxlUiHILPIwKqFlQOtzg5zq3HZl9ZQ2G0_vlEUbgbsKqFgPumaXBGOWEOMABpYi1qhzeX6PYmwd9cg9vJaZoQAUgteIS8ugHme08bqrdngWkIhM1QPWHEH-UAeJJzhRlX7RvI62Jt_pg6OVNaow1E6DhwfaOMv1aJMaw8O7d4mV72sAmxVTPZEkEtvY8JKFnKDYZA4oWX2qGwEptwjt1AuORGp4kITrEk3lRxhpgbvaecbucVk_EYYWqKUotyBhRd-n7aeCzmmQQ5jpALzbOqaiGUjghdMTq_1-XslqOCoOCAqwHrlF2Z1MMPLyIdIzfonA1B5vxGbeR7uofjuQRk0yZGX1RByH9fTnWA4oy2cRk924KTBUZ-KfyJ9yRiR1osrRjNoIAFhIiqM55-i0RMQOcHd9utykJCLtuUbYQxiEnh0B0wEIQvdSy7QePamUbYRxGSHhQbaxN_jLszpEtzAP_G8Nhq3R-SV5tmr7j_djVIcKW1db3YFLBSZAcsk6KvI6A0plwERLKjXDFSMvvJHkYEze2LuZtLe3e8FgahVcLuQ=w1420-h960-no);
+    height: 500px;
     background-position: center center;
   }
   
@@ -46,7 +46,7 @@ body {
   
   .spectrum p {
     color: #FFFFFF;
-    text-align: left;
+    text-align: right;
   }
   
   /* Roast types */
@@ -74,12 +74,13 @@ body {
   h1 {
     color: #3B4C77;
     font-family: 'Cinzel', serif;
-    font-size: 75px;
+    font-size: 77px;
     line-height: 76px;
     margin: 0;
     position: relative;
-    text-align:center;
-    top: 80%;
+    text-align: right;
+    padding-right: 60px;
+    top: 70%;
   }
   
   h2 {
@@ -87,7 +88,7 @@ body {
     font-family: 'Cinzel', serif;
     font-size: 28px;
     font-weight: 500;
-    text-align: left;
+    text-align: right;
     text-transform: uppercase;
   }
   
@@ -140,7 +141,7 @@ body {
     font-family: 'Cinzel', serif;
     font-size: 13px;
     font-weight: 900;
-    text-align: left;
+    text-align: right;
     text-transform: uppercase;
     text-decoration: none;
     letter-spacing: 2px;
